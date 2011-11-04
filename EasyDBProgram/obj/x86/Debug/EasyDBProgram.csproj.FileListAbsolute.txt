@@ -1,0 +1,9 @@
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\bin\Debug\EasyDBProgram.exe
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\bin\Debug\EasyDBProgram.pdb
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\EasyDBProgram.Form1.resources
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\EasyDBProgram.Properties.Resources.resources
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\EasyDBProgram.exe
+C:\Users\Jason\Dropbox\Devry\CIS339\JoshSnyder\EasyDBProgram\EasyDBProgram\obj\x86\Debug\EasyDBProgram.pdb
