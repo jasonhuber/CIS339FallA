@@ -17,24 +17,12 @@ namespace EasyDBProgram
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            //connection, command, dataset
-            System.Data.SqlClient.SqlConnection conn = new System.Data.SqlClient.SqlConnection();
 
-            conn.ConnectionString = @"Data Source=AZ54123YZ\SQLEXPRESS;Initial Catalog=JoshSnyder;Trusted_Connection=True;";
-            
-            conn.Open();
+            Student student1 = new Student();
 
-            System.Data.SqlClient.SqlCommand comm = new System.Data.SqlClient.SqlCommand();
-            comm.CommandText = "select SID, Name, Email from student";
-            comm.Connection = conn;
+            student1.getbyid("D12312312");
+            MessageBox.Show(student1.name);
 
-            System.Data.SqlClient.SqlDataAdapter DA = new System.Data.SqlClient.SqlDataAdapter();
-            System.Data.DataSet DS = new DataSet();
-            DA.SelectCommand = comm;
-            DA.Fill(DS);
-
-            dataGridView1.DataSource = DS.Tables[0];
-            
            
         }
     }
